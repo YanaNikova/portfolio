@@ -11,6 +11,7 @@
   line-height: normal;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  font-size: 24px;
 }
 .yarndings-20-regular {
   font-family: "Yarndings 20", system-ui;
@@ -219,7 +220,7 @@ body {
 }
 
 .container {
-  width: 1420px;
+  width: 1800px;
   margin: 0 auto;
   overflow: hidden;
   background: #000;
