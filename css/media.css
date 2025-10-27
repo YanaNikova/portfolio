@@ -49,8 +49,11 @@
     }
     .title {
         font-size: 40px;
-        line-height: 15px;
+        line-height: normal;
     }
+    .bottom {
+    grid-template-columns: 1fr;
+}
     .header .container p:nth-child(2) {
         margin-top: 20px;
         font-size: 25px !important;
